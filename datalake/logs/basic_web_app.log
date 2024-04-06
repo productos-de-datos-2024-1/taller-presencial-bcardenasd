@@ -92,3 +92,5 @@
 2024-03-23 12:21:37,839:INFO:User values: {'bedrooms': 8.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
 2024-03-23 12:21:37,841:INFO:Prediction: -188556.39
 2024-03-23 12:21:37,842:INFO:127.0.0.1 - - [23/Mar/2024 12:21:37] "POST / HTTP/1.1" 200 -
+2024-03-23 16:35:19,724:INFO:Starting the application
+2024-03-23 16:35:19,903:INFO:Starting the application
